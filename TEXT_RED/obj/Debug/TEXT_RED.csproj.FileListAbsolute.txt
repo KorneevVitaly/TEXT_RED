@@ -1,0 +1,234 @@
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.exe
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.pdb
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\obj\Debug\MainWindow.baml
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\obj\Debug\MainWindow.g.cs
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\obj\Debug\App.g.cs
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.exe
+c:\users\виталий\documents\visual studio 2013\Projects\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.exe
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.pdb
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+C:\Users\Admin\Desktop\UNIVER\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+F:\TEAM\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+F:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.exe
+F:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.pdb
+F:\TEAM\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.exe
+F:\TEAM\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.pdb
+F:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+F:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\MainWindow.baml
+F:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\MainWindow.g.cs
+F:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\App.g.cs
+F:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+F:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+F:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+F:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+H:\TEAM\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+H:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.exe
+H:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.pdb
+H:\TEAM\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.exe
+H:\TEAM\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.pdb
+H:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+H:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\MainWindow.baml
+H:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\MainWindow.g.cs
+H:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\App.g.cs
+H:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+H:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+H:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+H:\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\bin\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\obj\Debug\MainWindow.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\obj\Debug\MainWindow.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\obj\Debug\App.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\bin\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\bin\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\obj\Debug\MainWindow.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\obj\Debug\MainWindow.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\obj\Debug\App.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.33\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\bin\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\bin\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\obj\Debug\MainWindow.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\obj\Debug\MainWindow.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\obj\Debug\App.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.35\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\bin\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\bin\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\obj\Debug\MainWindow.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\obj\Debug\MainWindow.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\obj\Debug\App.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.36\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\bin\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\bin\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\obj\Debug\MainWindow.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\obj\Debug\MainWindow.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\obj\Debug\App.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\MainWindow.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\MainWindow.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\App.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\bin\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\bin\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\Colorpicker.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\Colorpicker.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.37 - копия\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.lref
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\Colorpicker.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\Colorpicker.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\App.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\bin\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\bin\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\MainWindow.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.lref
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\MainWindow.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.45 - копия\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\bin\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\bin\Debug\TEXT_RED.pdb
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\Colorpicker.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\Colorpicker.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\MainWindow.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\App.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.lref
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\MainWindow.baml
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.exe
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.pdb
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\bin\Debug\TEXT_RED.exe
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\bin\Debug\TEXT_RED.pdb
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\Colorpicker.baml
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\Colorpicker.g.cs
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\MainWindow.g.cs
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\App.g.cs
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.lref
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\MainWindow.baml
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+c:\Users\Богдан\Downloads\TEXT_RED 0.48\TEXT_RED 0.48\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.49\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.49\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Yanochka\Desktop\TEAM\TEXT_RED 0.49\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\TEXT_RED.exe
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\TEXT_RED.pdb
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\Colorpicker.baml
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\Colorpicker.g.cs
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\MainWindow.g.cs
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\App.g.cs
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.lref
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\bin\Debug\TEXT_RED.exe
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\bin\Debug\TEXT_RED.pdb
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\MainWindow.baml
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+C:\Users\Виталий\Desktop\Team\TEXT_RED 0.49\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+G:\TEXT_RED 0.69\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.exe
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.pdb
+G:\TEXT_RED 0.69\TEXT_RED\bin\Debug\TEXT_RED.exe
+G:\TEXT_RED 0.69\TEXT_RED\bin\Debug\TEXT_RED.pdb
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\Colorpicker.baml
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\Colorpicker.g.cs
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\MainWindow.g.cs
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\App.g.cs
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.lref
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\MainWindow.baml
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+G:\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+E:\projects\TEXT_RED 0.69\TEXT_RED\bin\Debug\TEXT_RED.exe.config
+E:\projects\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.exe
+E:\projects\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.pdb
+E:\projects\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.csprojResolveAssemblyReference.cache
+E:\projects\TEXT_RED 0.69\TEXT_RED\obj\Debug\MainWindow.g.cs
+E:\projects\TEXT_RED 0.69\TEXT_RED\obj\Debug\App.g.cs
+E:\projects\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED_MarkupCompile.cache
+E:\projects\TEXT_RED 0.69\TEXT_RED\obj\Debug\MainWindow.baml
+E:\projects\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.g.resources
+E:\projects\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.Properties.Resources.resources
+E:\projects\TEXT_RED 0.69\TEXT_RED\obj\Debug\TEXT_RED.csproj.GenerateResource.Cache
+E:\projects\TEXT_RED 0.69\TEXT_RED\bin\Debug\TEXT_RED.exe
+E:\projects\TEXT_RED 0.69\TEXT_RED\bin\Debug\TEXT_RED.pdb

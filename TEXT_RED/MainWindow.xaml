@@ -1,0 +1,62 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="TEXT_RED.MainWindow"
+        Title="Muchacha Text Editor" Height="502.388" Width="788.493" MinHeight="502.388" MinWidth="788.493" Background="LightGray" Icon="Muchacha.ico">
+    <Grid>
+        <ToolBar x:Name="MyToolBar" HorizontalAlignment="Stretch" Margin="0,25,5,0" VerticalAlignment="Top" Height="54" Background="AliceBlue">
+            <Label Content="Шрифт" HorizontalAlignment="Center" VerticalAlignment="Top" Height="27" Width="51" Margin="0,10,0,0"/>
+            <ComboBox x:Name="ComboFontType" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="130" SelectionChanged="comboFontFamily_SelectionChanged">
+                
+            </ComboBox>
+            <Label Content="Размер шрифта" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
+            <ComboBox x:Name="ComboFontSize" Margin="0,10,0,0" IsEditable="True" VerticalAlignment="Top" Width="42" TextBoxBase.TextChanged="Size_Change"/>
+            <Separator HorizontalAlignment="Center"/>
+            <CheckBox x:Name="CheckBoldFont" FontWeight="Bold" Height="21" Margin="0,10,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Command="EditingCommands.ToggleBold" Content="Ж"/>
+            <CheckBox x:Name="CheckItalicFont" FontStyle="Italic" Height="21" Margin="0,10,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Command="EditingCommands.ToggleItalic" Width="17" Content="К"/>
+            <CheckBox x:Name="CheckUnderlineFont" Margin="0,10,0,0" Height="21" HorizontalAlignment="Center" VerticalAlignment="Top" Command="EditingCommands.ToggleUnderline" Width="17">
+                <TextBlock TextDecorations="Underline"><Run Text="Ч"/></TextBlock>
+            </CheckBox>
+            <Separator HorizontalAlignment="Center"/>
+            <Button x:Name="highlight" Height="22" Width="22" Margin="0,10,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Click="Highlight_Click">
+                <Image Source="text_Color.png" MaxHeight="32"/>
+            </Button>
+            <Button x:Name="color" Height="22" Width="22" Margin="0,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Click="Color_Click">
+                <Image Source="text_highlight.png" MaxHeight="32"/>
+            </Button>
+            <Separator HorizontalAlignment="Center"/>
+            <RadioButton x:Name="RadioLeft" Margin="0,10,0,0" Height="22" Command="EditingCommands.AlignLeft" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <Image Source="textLeft.png" MaxHeight="32"/>
+            </RadioButton>
+            <RadioButton x:Name="RadioCenter" Margin="0,10,0,0" Height="22" Command="EditingCommands.AlignCenter" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <Image Source="textCenter.png" MaxHeight="32"/>
+            </RadioButton>
+            <RadioButton x:Name="RadioRight" Margin="0,10,0,0" Height="22" Command="EditingCommands.AlignRight" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <Image Source="textRight.png" MaxHeight="32"/>
+            </RadioButton>
+            <RadioButton x:Name="RadioJust" Margin="0,10,0,0" Height="22" Command="EditingCommands.AlignJustify" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <Image Source="textJust.png" MaxHeight="32"/>
+            </RadioButton>
+        </ToolBar>
+        <Menu HorizontalAlignment="Stretch" Height="24" VerticalAlignment="Top" Width="Auto" Background="FloralWhite">
+            <MenuItem Header="Файл">
+                <MenuItem x:Name="SelectOpen" Header="Открыть" Click="FileOpen_Click"/>
+                <MenuItem x:Name="SelectSave" Header="Сохранить как" Click="FileSave_Click"/>
+                <MenuItem x:Name="SelectExit" Header="Выход" Click="Exit_Click"/>
+            </MenuItem>
+        </Menu>
+        <StatusBar x:Name="MyStatus" HorizontalAlignment="Stretch" Height="24" Margin="0,0,0,0.4" VerticalAlignment="Bottom">
+            <StatusBarItem>
+                <TextBlock Name="lblCursorPosition" />
+            </StatusBarItem>
+        </StatusBar>
+        <RichTextBox Name="MainTextBox" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Margin="10,84,12,33.4" AcceptsReturn="True" AcceptsTab="True" VerticalScrollBarVisibility="Visible" Width="754" SelectionChanged="MainTextBox_SelectionChanged">
+            <RichTextBox.Resources>
+                <Style TargetType="{x:Type Paragraph}">
+                    <Setter Property="Margin" Value="0"/>
+                </Style>
+            </RichTextBox.Resources>
+        </RichTextBox>
+        
+    </Grid>
+</Window>
